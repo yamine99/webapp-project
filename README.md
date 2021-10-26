@@ -1,8 +1,4 @@
-### Ansible project deployment example
-
-##### Hosts preparation
-> ssh-keygen -t rsa
-> ssh-copy-id admin@<ip-address>
+### Ansible project
   
 ##### Modify ip in prod.yml
 > vi prod.yml  
