@@ -10,5 +10,3 @@
 ##### Run command to deploy 
 > ansible-playbook -i prod.yml deploy.yml
 
-#### Ansible documentation
-https://docs.ansible.com/ansible/latest/
